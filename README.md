@@ -1,7 +1,10 @@
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakisota&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=arakisota&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakisota&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=arakisota&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arakisota&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **arakisota/arakisota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
