@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img alt="tropy" height="125px" src="https://github-profile-trophy.vercel.app/?username=arakisota&theme=onedark&column=9" />
+  <img alt="tropy" height="200px" src="https://github-profile-trophy.vercel.app/?username=arakisota&theme=onedark&column=10" />
 </p>
 
 
