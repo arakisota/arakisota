@@ -1,9 +1,10 @@
-<p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakisota&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=arakisota&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<p align="center">
+  <img alt="graph" height="225px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arakisota&theme=dracula" />
 </p>
 
-<p align="center">
+<p align="center"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakisota&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=arakisota&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="tropy" height="200px" src="https://github-profile-trophy.vercel.app/?username=arakisota&theme=onedark&column=10" />
 </p>
 
